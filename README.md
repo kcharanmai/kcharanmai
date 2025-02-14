@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @kcharanmai
--🌱 Currently exploring the realms of web development.
--💻 Building cool stuff with HTML, CSS, JavaScript,Nodejs
+-👋 Hello! This is Charanmai Kasthala.
+-💻 An AI/ML enthusiast, a web developer and a Programmer.
 -🚀 Active learner.
-- 📫 How to reach me LinkedIn-https://www.linkedin.com/in/ kasthala-charanmaii-21932b27b , Gmail-charanmaik@gmail.com
+-📫 How to reach me LinkedIn-https://www.linkedin.com/in/ kasthala-charanmaii-21932b27b , Email: charanmaik@gmail.com
